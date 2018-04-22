@@ -114,13 +114,13 @@
 # 如何美化排版？
 ## 小學教的標點符號
 **使用全形表點符號能夠讓距離變大不會擠在一起，又不會失去文字關聯性**    
-- [ ] Bad
+- [ ] Bad    
     請問一下各位在Python3中,我要如何做出氣泡排序法？
     已下是我的思路跟程式碼:
     思路:xxxxxxxx,xxxxxxx,xxxx。
     程式碼網址:https://xxx.xx
 
-- [x] Good
+- [x] Good    
     請問一下各位在Python3中，我要如何做出氣泡排序法？
     已下是我的思路跟程式碼：
     思路：xxxxxxxx，xxxxxxx，xxxx。
@@ -134,7 +134,7 @@
     已下是我的思路跟程式碼：
     思路：xxxxxxxx，xxxxxxx，xxxx。
     程式碼網址：https://xxx.xx
-- [x] Good
+- [x] Good    
     請問一下各位在 Python3 中，我要如何做出氣泡排序法？
     已下是我的思路跟程式碼：
     思路： xxxxxxxx，xxxxxxx，xxxx。
@@ -143,12 +143,12 @@
 ---
 ## 關鍵字
 **適當使用字體做出"關鍵字提示"，加強在訊息洪流中的能見度**
-- [ ] Bad
+- [ ] Bad    
     請問一下各位在 Python3 中，我要如何做出氣泡排序法？
     已下是我的思路跟程式碼：
     思路：xxxxxxxx，xxxxxxx，xxxx。
     程式碼網址：https://xxx.xx
-- [x] Good
+- [x] Good    
     請問一下各位在 Python3 中，我要如何做出氣泡排序法？   
     已下是我的思路跟程式碼：
     思路： xxxxxxxx，xxxxxxx，xxxx。
@@ -176,7 +176,7 @@ _所以請盡量不要用中文斜體_
     思路:xxxxxxxx,xxxxxxx,xxxx。     
     程式碼網址:https://xxx.xx    
 		<br>
-- [x] Good
+- [x] Good    
     請問一下各位在 **Python3** 中，我要如何做出 **氣泡排序法** ？    
     已下是我的思路跟程式碼：    
 
@@ -191,7 +191,7 @@ _所以請盡量不要用中文斜體_
 - [ ] Bad    
 		請問有人接觸過tampermonkey嗎?想請問一下有沒有方法可以在user那存設定檔
 		<br>
-- [x] Good
+- [x] Good    
 		請問有人接觸過 **tampermonkey** 嗎？
 		想請問一下有沒有方法可以在user那存設定檔，之後更新程式後，user就不用重新設定了
 		目前是程式更新後還要請user重新設定一次感覺很麻煩
