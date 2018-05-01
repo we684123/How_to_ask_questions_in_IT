@@ -84,7 +84,7 @@
 
 - ### "不要跟不熟的IT人私訊問問題"
 
-    有個經驗是對方突然密我朋友Telegram(通訊軟體)來問問題，但他的問題不是三言兩語能夠解決的，且我朋友真的不想從頭教到尾那時間會耗很久，可能教完一、二個小時就過了，拒絕又傷感情(？)     
+    有個經驗是對方突然密我朋友Telegram(通訊軟體)來問問題，但他的問題不是三言兩語能夠解決的，且我朋友真的不想從頭教到尾，那時間會耗很久，可能教完一、二個小時就過了，拒絕又傷感情(？)     
 
     最後我朋友還是跟他委婉的說：     
     「我現在在忙專案，推薦去XXX程式群問會比較快喔(附群聯結)」     
@@ -96,8 +96,9 @@
     在群組發問，會同時傳給多個IT人，比你一個一個私還有效     
     在群組發問，你不用擔心私訊對方會被已讀不回     
 
-    每個人接收到後如果有能力幫都會盡量幫，就算被罵也請了解[**反駁金字塔**](https://phiphicake.blogspot.com/2012/01/paul-graham.html)，先看看對方是哪一層的回應，再做出對應的舉動。
-    ![反駁金字塔](https://i.imgur.com/KFy4h48.png)
+    每個人接收到後如果有能力幫都會盡量幫，就算被罵也請了解[**反駁金字塔**](https://phiphicake.blogspot.com/2012/01/paul-graham.html)，先看看對方是哪一層的回應，再做出對應的舉動。    
+
+![反駁金字塔](https://i.imgur.com/KFy4h48.png)    
 
 
     一個群組的形成原因，是因為一些有著**相同理念**的人聚在一起的，每個人都有過新手時期，他們也有當過新手。     
@@ -115,44 +116,35 @@
 ## 小學教的標點符號
 **使用全形表點符號能夠讓距離變大不會擠在一起，又不會失去文字關聯性**    
 - [ ] Bad    
-    請問一下各位在python3中,我要如何做出氣泡排序法？
-    已下是我的思路跟程式碼:
-    思路:xxxxxxxx,xxxxxxx,xxxx。
-    程式碼網址:https://xxx.xx
+    請問一下各位在python3中,我要如何做出氣泡排序法?已下是我的思路跟程式碼:思路:xxxxxxxx,xxxxxxx,xxxx。程式碼網址:https://xxx.xx
 
 - [x] Good    
-    請問一下各位在python3中，我要如何做出氣泡排序法？
-    已下是我的思路跟程式碼：
-    思路：xxxxxxxx，xxxxxxx，xxxx。
-    程式碼網址：[https://xxx.xx](https://xxx.xx)
+    請問一下各位在python3中，我要如何做出氣泡排序法？已下是我的思路跟程式碼：思路：xxxxxxxx，xxxxxxx，xxxx。程式碼網址：[https://xxx.xx](https://xxx.xx)
 
 ---
 ## 適當空白和換行
 **將 英文、中文中間加入適當空白和換行**
 - [ ] Bad    
-    請問一下各位在python3中，我要如何做出氣泡排序法？
-    已下是我的思路跟程式碼：
-    思路：xxxxxxxx，xxxxxxx，xxxx。
-    程式碼網址：https://xxx.xx
+    請問一下各位在python3中，我要如何做出氣泡排序法？已下是我的思路跟程式碼：思路：xxxxxxxx，xxxxxxx，xxxx。程式碼網址：[https://xxx.xx](https://xxx.xx)
 - [x] Good    
-    請問一下各位在 python3 中，我要如何做出氣泡排序法？
-    已下是我的思路跟程式碼：
-    思路： xxxxxxxx，xxxxxxx，xxxx。
-    程式碼網址： https://xxx.xx
+    請問一下各位在 python3 中，我要如何做出氣泡排序法？    
+    已下是我的思路跟程式碼：    
+    思路： xxxxxxxx，xxxxxxx，xxxx。    
+    程式碼網址： https://xxx.xx    
 
 ---
 ## 英文專有名詞首字大寫
 **將英文專有名詞字首大寫，能夠讓對方加速了解為專有名詞**
 - [ ] Bad    
-    請問一下各位在 python3 中，我要如何做出氣泡排序法？
-    已下是我的思路跟程式碼：
-    思路： xxxxxxxx，xxxxxxx，xxxx。
-    程式碼網址： https://xxx.xx
+    請問一下各位在 python3 中，我要如何做出氣泡排序法？    
+    已下是我的思路跟程式碼：    
+    思路： xxxxxxxx，xxxxxxx，xxxx。    
+    程式碼網址： https://xxx.xx    
 - [x] Good    
-    請問一下各位在 Python3 中，我要如何做出氣泡排序法？
-    已下是我的思路跟程式碼：
-    思路： xxxxxxxx，xxxxxxx，xxxx。
-    程式碼網址： https://xxx.xx
+    請問一下各位在 Python3 中，我要如何做出氣泡排序法？    
+    已下是我的思路跟程式碼：    
+    思路： xxxxxxxx，xxxxxxx，xxxx。    
+    程式碼網址： https://xxx.xx    
 
 這是一種約定成俗的格式，就像你看到藍色的字會自動把他理解成超連結一樣。     
 
@@ -164,20 +156,20 @@
 ## 關鍵字
 **適當使用字體做出"關鍵字提示"，加強在訊息洪流中的能見度**
 - [ ] Bad    
-    請問一下各位在 Python3 中，我要如何做出氣泡排序法？
-    已下是我的思路跟程式碼：
-    思路：xxxxxxxx，xxxxxxx，xxxx。
+    請問一下各位在 Python3 中，我要如何做出氣泡排序法？    
+    已下是我的思路跟程式碼：    
+    思路：xxxxxxxx，xxxxxxx，xxxx。    
     程式碼網址：https://xxx.xx    
 - [x] Good    
     請問一下各位在 Python3 中，我要如何做出氣泡排序法？   
-    已下是我的思路跟程式碼：
-    思路： xxxxxxxx，xxxxxxx，xxxx。
-    程式碼網址： https://xxx.xx
-    請問一下各位在 **Python3** 中，我要如何做出 **氣泡排序法**？
-    已下是我的思路跟程式碼：
+    已下是我的思路跟程式碼：    
+    思路： xxxxxxxx，xxxxxxx，xxxx。    
+    程式碼網址： https://xxx.xx    
+    請問一下各位在 **Python3** 中，我要如何做出 **氣泡排序法**？    
+    已下是我的思路跟程式碼：    
 
-    思路： xxxxxxxx，xxxxxxx，xxxx。
-    程式碼網址： https://xxx.xx
+    思路： xxxxxxxx，xxxxxxx，xxxx。    
+    程式碼網址： https://xxx.xx    
 
 適當的將關鍵字標出，能幫助吸引目光，但切勿濫用，否則就沒意義了。     
 對了，大多數中文字體是沒有原生斜體的，都是靠演算法去模擬出"斜體"     
@@ -185,7 +177,7 @@ _所以請盡量不要用中文斜體_
 
 ---
 ## Before & After
-~~先服用[BGM](https://www.youtube.com/watch?v=1SqqmZO6dxY)吧~~
+~~先服用[BGM](https://www.youtube.com/watch?v=1SqqmZO6dxY)吧~~    
 
 **現在把最初未修改的提問 跟 最終些改後的提問擺在一起比較**    
 
@@ -212,9 +204,9 @@ _所以請盡量不要用中文斜體_
 		請問有人接觸過tampermonkey嗎？想請問一下有沒有方法可以在user那存設定檔，之後更新程式後，user就不用重新設定了目前是程式更新後還要請user重新設定一次感覺很麻煩
 
 - [x] Good    
-		請問有人接觸過 **Tampermonkey** 嗎？
-		想請問一下有沒有方法可以在user那存設定檔，之後更新程式後，user就不用重新設定了
-		目前是程式更新後還要請user重新設定一次感覺很麻煩
+		請問有人接觸過 **Tampermonkey** 嗎？    
+		想請問一下有沒有方法可以在user那存設定檔，之後更新程式後，user就不用重新設定了    
+		目前是程式更新後還要請user重新設定一次感覺很麻煩    
 	- [x] 有給平台或程式和目的
 	- [x] 有表現自己有一定能力但不知道進階方法
 	- [x] 有美化排版
